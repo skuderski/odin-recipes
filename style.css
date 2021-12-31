@@ -1,6 +1,18 @@
 
 /*styling main page*/
+h1{
+    text-align:center;
+}
+h2{
+    text-align:center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 
+}
 .title{
     color:green;
     background-color:antiquewhite;
@@ -37,12 +49,67 @@ a:visited {
 }
 /*styling chilli-con-carne.html*/
 
+.chilli1{
+    color:salmon;
+}
+.chilli2{
+    background-color:salmon;
+}
 
+.firstc{
+    color:salmon;
+    background-color:black;
+}
 
+.secondc{
+    background-color:salmon;
+}
+.ingredients{
+    background-color:salmon;
+}
+.unorderedc{
+    color:salmon;
+    background-color:black;
+}
+.steps{
+    color:salmon;
+}
+.orderedc{
+    background-color:salmon;
+    text-align:center;
+}
 /*styling butter-chicken.html*/
+
+
+.butter1{
+    color:red;
+}
+.butter2{
+    background-color:red;
+}
 .first {
     color:blue;
+    text-align:center;
 }
 .second {
     color:orange;
+    text-align:center;
+}
+.ingredients2 {
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:25px;
+    font-weight: lighter;
+    font-style: oblique;
+    background-color: lavenderblush;
+}
+
+/*styling chicken-fried-rice.html*/
+
+.fried1 {
+    color:tomato;
+}
+
+.fried2 {
+    background-color:tomato;
 }
