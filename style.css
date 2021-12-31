@@ -10,6 +10,13 @@
     font-family:'Courier New', Courier, monospace;
     text-align:center;
 }
+.welcome{
+    color:lightcoral;
+    font-size:30px;
+    font-weight:bold;
+    text-align:center;
+
+}
 .chef{
     display: block;
     margin-left: auto;
@@ -20,14 +27,22 @@ a:link {
     color:red;
     text-decoration:none;
     font-weight:bold;
+    font-size:26px;
 }
 a:visited {
     color:purple;
+    text-decoration:none;
+    font-size:26px;
+    font-weight:bold;
 }
+/*styling chilli-con-carne.html*/
 
 
 
-
+/*styling butter-chicken.html*/
 .first {
     color:blue;
+}
+.second {
+    color:orange;
 }
