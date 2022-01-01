@@ -113,3 +113,24 @@ a:visited {
 .fried2 {
     background-color:tomato;
 }
+.para {
+    color:lightskyblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:22px;
+}
+
+.ing{
+    font-weight:bold;
+    font-size:28px;
+}
+
+.ul1{
+    font-weight:bold;
+}
+.steps1{
+    text-align:center;
+}
+.ol1{
+    color:midnightblue;
+    text-transform:uppercase;
+}
